@@ -95,12 +95,39 @@ Notionで[キーワード]に関するページを探してください。
 
 ---
 
+## ライフエージェント一覧
+
+| エージェント | プロンプトファイル | 主な用途 |
+|---|---|---|
+| 人生設計 | `prompts/life_design.md` | 目標整理・中長期ビジョン・振り返り |
+| 英語学習 | `prompts/english_learning.md` | 学習セッション・添削・語彙強化 |
+| PMP学習 | `prompts/pmp_study.md` | 試験対策・模擬問題・進捗管理 |
+| 瑠花ちゃんサポート | `prompts/ruka_support.md` | 教育計画・習い事・教育資金 |
+| マンション管理組合 | `prompts/mansion_management.md` | 総会・修繕計画・住民対応・文書作成 |
+| 家庭雑務 | `prompts/household_tasks.md` | タスク管理・手続き・季節の作業 |
+
+---
+
 ## ディレクトリ構成
 
 ```
 Ryuichi_Ishikawa_Private/
-├── CLAUDE.md          # このファイル（エージェント設定）
-├── prompts/           # よく使うプロンプトテンプレート
-├── templates/         # プレゼン・ドキュメントテンプレート
-└── notes/             # ローカルメモ・作業ログ
+├── CLAUDE.md               # このファイル（エージェント設定）
+├── prompts/                # エージェント別プロンプトテンプレート
+│   ├── morning_briefing.md
+│   ├── email_reply_draft.md
+│   ├── schedule_coordination.md
+│   ├── notion_search.md
+│   ├── life_design.md
+│   ├── english_learning.md
+│   ├── pmp_study.md
+│   ├── ruka_support.md
+│   ├── mansion_management.md
+│   └── household_tasks.md
+├── templates/              # プレゼン・ドキュメントテンプレート
+└── notes/                  # ローカルメモ・作業ログ
+    ├── life_design/
+    ├── ruka/
+    ├── mansion/
+    └── household/
 ```
