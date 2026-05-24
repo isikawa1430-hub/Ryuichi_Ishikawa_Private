@@ -4,11 +4,11 @@
 
 ## 実行手順
 
-1. **Gmailの未読メール確認**（アカウント：Ryuichi's.ishikawa@gmail.com）
+1. **Gmailの未読メール確認**（アカウント：ryuichi.ishikawa@gmail.com）
    - 直近24〜48時間の未読メールを検索（`is:unread`）
    - 送信者・件名・緊急度を判断して優先度順に整理
 
-2. **今日のカレンダー確認**（アカウント：Ryuichi's.ishikawa@gmail.com）
+2. **今日のカレンダー確認**（アカウント：ryuichi.ishikawa@gmail.com）
    - 本日の予定をすべてリストアップ
    - 参加者・場所・準備事項があれば記載
 

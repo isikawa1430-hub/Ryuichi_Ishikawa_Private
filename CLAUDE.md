@@ -6,11 +6,11 @@
 
 | サービス | メインアカウント |
 |---|---|
-| Gmail | Ryuichi's.ishikawa@gmail.com |
-| Google カレンダー | Ryuichi's.ishikawa@gmail.com |
+| Gmail | ryuichi.ishikawa@gmail.com |
+| Google カレンダー | ryuichi.ishikawa@gmail.com |
 | Notion | isikawa1430@azusasekkei.co.jp |
 
-**重要**: GmailおよびGoogleカレンダーの操作は必ず `Ryuichi's.ishikawa@gmail.com` のアカウントを対象にすること。複数アカウントが存在する場合もこのアカウントを優先する。
+**重要**: GmailおよびGoogleカレンダーの操作は必ず `ryuichi.ishikawa@gmail.com` のアカウントを対象にすること。複数アカウントが存在する場合もこのアカウントを優先する。
 
 ---
 
