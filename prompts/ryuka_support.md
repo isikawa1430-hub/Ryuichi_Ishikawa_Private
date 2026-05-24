@@ -34,4 +34,4 @@
 - `notion-update-page` でメモ・計画を更新（確認後）
 
 ## メモ保存先
-`notes/ruka/` に記録
+`notes/ryuka/` に記録
