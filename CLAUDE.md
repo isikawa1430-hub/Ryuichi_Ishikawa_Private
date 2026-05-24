@@ -105,6 +105,7 @@ Notionで[キーワード]に関するページを探してください。
 | 瑠花ちゃんサポート | `prompts/ruka_support.md` | 教育計画・習い事・教育資金 |
 | マンション管理組合 | `prompts/mansion_management.md` | 総会・修繕計画・住民対応・文書作成 |
 | 家庭雑務 | `prompts/household_tasks.md` | タスク管理・手続き・季節の作業 |
+| 家庭財務・株式管理 | `prompts/home_finance_stock.md` | 家計管理・貯蓄・株式ポートフォリオ |
 
 ---
 
@@ -123,11 +124,13 @@ Ryuichi_Ishikawa_Private/
 │   ├── pmp_study.md
 │   ├── ruka_support.md
 │   ├── mansion_management.md
-│   └── household_tasks.md
+│   ├── household_tasks.md
+│   └── home_finance_stock.md
 ├── templates/              # プレゼン・ドキュメントテンプレート
 └── notes/                  # ローカルメモ・作業ログ
     ├── life_design/
     ├── ruka/
     ├── mansion/
-    └── household/
+    ├── household/
+    └── finance/
 ```
